@@ -12,7 +12,7 @@ Publication status: [under revision](https://www.researchsquare.com/article/rs-3
 
 (3) Federal Office of Meteorology and Climatology MeteoSwiss, Switzerland
 
-Contact: [Pui Man Kam](mannie.kam@usys.ethz.ch)
+Contact: Pui Man Kam [(mannie.kam@usys.ethz.ch)](mannie.kam@usys.ethz.ch)
 
 ## Content:
 
