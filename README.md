@@ -38,7 +38,7 @@ The project is seperated into two main folders. `TC_Yasa_case_study` contains al
 ## Requirements
 Requires:
 - Python 3.9+ environment (best to use conda for CLIMADA repository)
-- *CLIMADA* repository version 3.3+: [https://wcr.ethz.ch/research/climada.html https://github.com/CLIMADA-project/climada_python](https://wcr.ethz.ch/research/climada.html https://github.com/CLIMADA-project/climada_python)
+- *CLIMADA* repository version 3.3.3+: [https://wcr.ethz.ch/research/climada.html https://github.com/CLIMADA-project/climada_python](https://wcr.ethz.ch/research/climada.html https://github.com/CLIMADA-project/climada_python)
 
 ## ETH cluster
 Computationally demanding calculations were run on the [Euler cluster of ETH Zurich](https://scicomp.ethz.ch/wiki/Euler).
@@ -50,8 +50,8 @@ Documentation for CLIMADA is available on Read the Docs:
 * [online (recommended)](https://climada-python.readthedocs.io/en/stable/)
 * [PDF file](https://buildmedia.readthedocs.org/media/pdf/climada-python/stable/climada-python.pdf)
 
-If script fails, revert CLIMADA version to release v3.3:
-* from [GitHub](https://github.com/CLIMADA-project/climada_python/releases/tag/v3.1.2)
+If script fails, revert CLIMADA version to release v3.3.3:
+* from [GitHub](https://github.com/CLIMADA-project/climada_python/releases/tag/v3.3.3)
 
 ## History
 
