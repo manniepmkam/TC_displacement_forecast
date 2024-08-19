@@ -35,6 +35,11 @@ The project is seperated into two main folders. `TC_Yasa_case_study` contains al
 
 `load_TIGGE_tracks.py`: Python script that contains function to process TC tracks in NetCDT file (output from `create_NETCDF_from_TIGGE_n2o_matched_ibtracs.py`) into climada.hazard.TCTracks object. 
 
+## Requirements
+Requires:
+- Python 3.9+ environment (best to use conda for CLIMADA repository)
+- *CLIMADA* repository version 3.3+: [https://wcr.ethz.ch/research/climada.html https://github.com/CLIMADA-project/climada_python](https://wcr.ethz.ch/research/climada.html https://github.com/CLIMADA-project/climada_python)
+
 ## ETH cluster
 Computationally demanding calculations were run on the [Euler cluster of ETH Zurich](https://scicomp.ethz.ch/wiki/Euler).
 
