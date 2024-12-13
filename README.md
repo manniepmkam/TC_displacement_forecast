@@ -6,7 +6,7 @@ These scripts reproduce the main results of the paper:
  
 Pui Man Kam (1,2), Fabio Ciccone (1), Chahan, M. Kropf (1,3), Lukas Riedel (1,3), Christopher Fairless (1), and David N. Bresch (1,3)
 
-Publication status: [under revision](https://www.researchsquare.com/article/rs-3682198/v1).
+Publication status: [Published](https://www.nature.com/articles/s41467-024-53200-w).
 
 (1) Institute for Environmental Decisions, ETH Zurich, Switzerland
 
