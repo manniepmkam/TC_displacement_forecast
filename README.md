@@ -44,7 +44,7 @@ Requires:
 Computationally demanding calculations were run on the [Euler cluster of ETH Zurich](https://scicomp.ethz.ch/wiki/Euler).
 
 ## Documentation:
-Publication: submitted to **Nature Communications**
+Publication: Published in **Nature Communications**
 
 Documentation for CLIMADA is available on Read the Docs:
 * [online (recommended)](https://climada-python.readthedocs.io/en/stable/)
